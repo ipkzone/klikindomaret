@@ -20,7 +20,13 @@ Fiture Tools KLIKINDOMARET V2
 - [x] Add Custom PIN OVO
 - [x] Add Payement OVO FIX
 - [x] Add Device
+- [x] Add Reffreal
+- [x] Add API adaotp.com 
 
+Support Event New Member
+- [x] Save Vocher
+- [x] Save Data Registrasi
+- [x] Auto Massal CO
 
 Contact admin for [Order Script](https://api.whatsapp.com/send?phone=62895375136311&text=Hallo%20mau%20order%20script%20eDOT%20bos).<br>
 
