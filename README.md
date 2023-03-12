@@ -28,7 +28,7 @@ Support Event New Member
 - [x] Save Data Registrasi
 - [x] Auto Massal CO
 
-Contact admin for [Order Script](https://api.whatsapp.com/send?phone=62895375136311&text=Hallo%20mau%20order%20script%20eDOT%20bos).<br>
+Contact admin for [Order Script](https://api.whatsapp.com/send?phone=62895375136311&text=Hai%2C%20Iddant%20ID%0AOrder%20script%20KLIKIDM%20V2%20dong.).<br>
 
 # Note
 The script runs with the license key,
