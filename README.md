@@ -1,7 +1,7 @@
 # klikindomaret
-KLIKIDM V2
+KLIKIDM V2.3
 
-<center><img src="image.png" alt="tools"></center>
+<center><img src="news.png" alt="tools"></center>
 
 Fiture Tools KLIKINDOMARET V2
 - [x] Registrasi - Get Vocher
@@ -22,6 +22,9 @@ Fiture Tools KLIKINDOMARET V2
 - [x] Add Device
 - [x] Add Reffreal
 - [x] Add API adaotp.com 
+- [x] Add OVO Regsitrasi
+- [x] Add Payment Jenius Limit 3 transaksi
+- [x] Add Payment Tebus Murah
 
 Support Event New Member
 - [x] Save Vocher
@@ -31,7 +34,7 @@ Support Event New Member
 Create and edit file data_login.txt
 - [x] Format: NUMBER|PASSWORD|DEVICE|VOC|PINOVO
 
-Contact admin for [Order Script](https://api.whatsapp.com/send?phone=62895375136311&text=Hai%2C%20Iddant%20ID%0AOrder%20script%20KLIKIDM%20V2%20dong.).<br>
+Contact admin for [Order Script](https://api.whatsapp.com/send?phone=62895375136311&text=Hai%2C%20Iddant%20ID%0AOrder%20script%20KLIKIDM%20V2.3%20dong.).<br>
 
 # Note
 The script runs with the license key,
