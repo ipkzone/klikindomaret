@@ -35,6 +35,9 @@ Create and edit file data_login.txt
 - [x] Format: NUMBER|PASSWORD|DEVICE|VOC|PINOVO
 
 Contact admin for [Order Script](https://api.whatsapp.com/send?phone=62895375136311&text=Hai%2C%20Iddant%20ID%0AOrder%20script%20KLIKIDM%20V2.3%20dong.).<br>
+Join telegram [Click Here](https://t.me/info_ladang_ngopi).<br>
+
+
 
 # Note
 The script runs with the license key,
