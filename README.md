@@ -1,9 +1,9 @@
 # klikindomaret
-KLIKIDM V2.3
+KLIKIDM V2.4
 
-<center><img src="news.png" alt="tools"></center>
+<center><img src="klik.png" alt="tools"></center>
 
-Fiture Tools KLIKINDOMARET V2
+Fiture Tools KLIKINDOMARET V2.4
 - [x] Registrasi - Get Vocher
 - [x] Isi Keranjang
 - [x] Checkout Ambil Barang
@@ -25,6 +25,7 @@ Fiture Tools KLIKINDOMARET V2
 - [x] Add OVO Regsitrasi
 - [x] Add Payment Jenius Limit 3 transaksi
 - [x] Add Payment Tebus Murah
+- [x] Add Payment Gopay 
 
 Support Event New Member
 - [x] Save Vocher
@@ -33,8 +34,9 @@ Support Event New Member
 
 Create and edit file data_login.txt
 - [x] Format: NUMBER|PASSWORD|DEVICE|VOC|PINOVO
+- [x] Format: NUMBER|PASSWORD|DEVICE|VOC|PINGOPAY
 
-Contact admin for [Order Script](https://api.whatsapp.com/send?phone=62895375136311&text=Hai%2C%20Iddant%20ID%0AOrder%20script%20KLIKIDM%20V2.3%20dong.).<br>
+Contact admin for [Order Script](https://api.whatsapp.com/send?phone=62895375136311&text=Hai%2C%20Iddant%20ID%0AOrder%20script%20KLIKIDM%20V2.4%20dong.).<br>
 Join telegram [Click Here](https://t.me/info_ladang_ngopi).<br>
 
 
