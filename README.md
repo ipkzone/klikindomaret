@@ -1,13 +1,13 @@
 # klikindomaret
 KLIKIDM V2.4
 
-<center><img src="klik.png" alt="tools"></center>
+<center><img src="v31.png" alt="tools"></center>
 
 Fiture Tools KLIKINDOMARET V2.4
 - [x] Registrasi - Get Vocher
 - [x] Isi Keranjang
 - [x] Checkout Ambil Barang
-- [x] Checking PIN Transaksi
+- [x] Checking Transaksi
 - [x] Delete Keranjang
 - [x] Checkout Pesan Antar
 - [x] Ganti Alamat Ke Pesan Antar
@@ -17,11 +17,15 @@ Fiture Tools KLIKINDOMARET V2.4
 - [x] Check Vocher 
 - [x] Delete Vocher
 - [x] Checking Keranjang
+- [x] Checking Stok Toko
+- [x] Change Toko
+- [x] Checking Saldo Account
+- [x] Auto Confirm Pesanan
 - [x] Add Custom PIN OVO
 - [x] Add Payement OVO FIX
 - [x] Add Device
 - [x] Add Reffreal
-- [x] Add API adaotp.com 
+- [x] Add API turbootp.com 
 - [x] Add OVO Regsitrasi
 - [x] Add Payment Jenius Limit 3 transaksi
 - [x] Add Payment Tebus Murah
@@ -36,7 +40,7 @@ Create and edit file data_login.txt
 - [x] Format: NUMBER|PASSWORD|DEVICE|VOC|PINOVO
 - [x] Format: NUMBER|PASSWORD|DEVICE|VOC|PINGOPAY
 
-Contact admin for [Order Script](https://api.whatsapp.com/send?phone=62895375136311&text=Hai%2C%20Iddant%20ID%0AOrder%20script%20KLIKIDM%20V2.4%20dong.).<br>
+Contact admin for [Order Script](https://api.whatsapp.com/send?phone=62895375136311&text=Hai%2C%20Iddant%20ID%0AOrder%20script%20KLIKIDM%20V3.1%20dong.).<br>
 Join telegram [Click Here](https://t.me/info_ladang_ngopi).<br>
 
 
