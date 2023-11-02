@@ -1,9 +1,9 @@
 # klikindomaret
-KLIKIDM V3.1
+KLIKIDM V4.1
 
-<center><img src="v31.png" alt="tools"></center>
+<center><img src="v4.png" alt="tools"></center>
 
-Fiture Tools KLIKINDOMARET V2.4
+Fiture Tools KLIKINDOMARET V4.1
 - [x] Registrasi - Get Vocher
 - [x] Isi Keranjang
 - [x] Checkout Ambil Barang
@@ -29,7 +29,8 @@ Fiture Tools KLIKINDOMARET V2.4
 - [x] Add OVO Regsitrasi
 - [x] Add Payment Jenius Limit 3 transaksi
 - [x] Add Payment Tebus Murah
-- [x] Add Payment Gopay 
+- [x] Add Payment Gopay
+- [x] Update Signature Login 
 
 Support Event New Member
 - [x] Save Vocher
