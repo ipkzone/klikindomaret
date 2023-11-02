@@ -41,7 +41,7 @@ Create and edit file data_login.txt
 - [x] Format: NUMBER|PASSWORD|DEVICE|VOC|PINOVO
 - [x] Format: NUMBER|PASSWORD|DEVICE|VOC|PINGOPAY
 
-Contact admin for [Order Script](https://api.whatsapp.com/send?phone=62895375136311&text=Hai%2C%20Iddant%20ID%0AOrder%20script%20KLIKIDM%20V3.1%20dong.).<br>
+Contact admin for [Order Script](https://api.whatsapp.com/send?phone=62895375136311&text=Hai%2C%20Iddant%20ID%0AOrder%20script%20KLIKIDM%20V4.1%20dong.).<br>
 Join telegram [Click Here](https://t.me/info_ladang_ngopi).<br>
 
 
