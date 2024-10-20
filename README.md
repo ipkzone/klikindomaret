@@ -1,7 +1,7 @@
 # klikindomaret
-KLIKIDM V7.3
+KLIKIDM V7.3 UPDATE X-SIGNATURE
 
-<center><img src="kl.jpg" alt="tools"></center>
+<center><img src="klz.png" alt="tools"></center>
 
 Fiture Tools KLIKINDOMARET V4.6
 - [x] Registrasi - Get Vocher
@@ -13,7 +13,7 @@ Fiture Tools KLIKINDOMARET V4.6
 - [x] Ganti Alamat Ke Pesan Antar
 - [x] Hapus Alamat
 - [x] Tambah Alamat
-- [x] Tempel Vocher
+- [x] Tempel Vocher - Update X-Signature
 - [x] Check Vocher 
 - [x] Delete Vocher
 - [x] Checking Keranjang
@@ -31,6 +31,7 @@ Fiture Tools KLIKINDOMARET V4.6
 - [x] Add Payment Tebus Murah
 - [x] Add Payment Gopay
 - [x] Update Signature Login
+- [ ] New Update X-Signature Claim Voucher
 - [x] Update Encription Regsiter New Member
 - [x] Bypass Confirm Pesanan With Login
 - [x] Bypass Confirm Pesanan No Login With ID Pesanan
