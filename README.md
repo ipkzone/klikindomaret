@@ -1,51 +1,10 @@
 # klikindomaret
-KLIKIDM V7.3 UPDATE X-SIGNATURE
+NEW KLIKIDM BIRU 2.0.5
 
-<center><img src="klz.png" alt="tools"></center>
+<center><img src="biru.png" alt="tools"></center>
 
-Fiture Tools KLIKINDOMARET V4.6
-- [x] Registrasi - Get Vocher
-- [x] Isi Keranjang
-- [x] Checkout Ambil Barang
-- [x] Checking Transaksi
-- [x] Delete Keranjang
-- [x] Checkout Pesan Antar
-- [x] Ganti Alamat Ke Pesan Antar
-- [x] Hapus Alamat
-- [x] Tambah Alamat
-- [x] Tempel Vocher - Update X-Signature
-- [x] Check Vocher 
-- [x] Delete Vocher
-- [x] Checking Keranjang
-- [x] Checking Stok Toko
-- [x] Change Toko
-- [x] Checking Saldo Account
-- [x] Auto Confirm Pesanan
-- [x] Add Custom PIN OVO
-- [x] Add Payement OVO FIX
-- [x] Add Device
-- [x] Add Reffreal
-- [x] Add API turbootp.com 
-- [x] Add OVO Regsitrasi
-- [x] Add Payment Jenius Limit 3 transaksi
-- [x] Add Payment Tebus Murah
-- [x] Add Payment Gopay
-- [x] Update Signature Login
-- [ ] New Update X-Signature Claim Voucher
-- [x] Update Encription Regsiter New Member
-- [x] Bypass Confirm Pesanan With Login
-- [x] Bypass Confirm Pesanan No Login With ID Pesanan
-
-Support Event New Member
-- [x] Save Vocher New Member
-- [x] Save Data Registrasi New Member
-- [x] Auto Massal CO
-
-Create and edit file data_login.txt
-- [x] Format: NUMBER|PASSWORD|DEVICE|VOC|PINOVO
-- [x] Format: NUMBER|PASSWORD|DEVICE|VOC|PINGOPAY
-
-Contact admin for [Order Script](https://api.whatsapp.com/send?phone=62895375136311&text=Hai%2C%20Iddant%20ID%0AOrder%20script%20KLIKIDM%20V4.6%20dong.).<br>
+FITURE TOOLS NEW KLIKIDM BIRU SEPERTI GAMBAR
+Contact admin for [Order Script](https://api.whatsapp.com/send?phone=62895375136311&text=Hai%2C%20Iddant%20ID%0AOrder%20script%20NEWKLIKIDM%20V2.0.5%20dong.).<br>
 Join telegram [Click Here](https://t.me/info_ladang_ngopi).<br>
 
 
